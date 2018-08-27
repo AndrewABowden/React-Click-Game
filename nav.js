@@ -1,7 +1,0 @@
-const BasicExample () = >
-    <Router>
-        
-
-
-
-    </Router>
