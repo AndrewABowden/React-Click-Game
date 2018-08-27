@@ -2,7 +2,7 @@
 $(document).ready(function() {
 
 	$.backstretch([
-          "images/background.png",
+          "images/lion.jpeg",
           "images/zelda_castillo.jpg",
           "images/1200px-Royalfamilytomb.png",
           "images/Bottom_of_the_Well.png",
